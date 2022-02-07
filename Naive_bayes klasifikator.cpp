@@ -175,7 +175,7 @@ double Instance::P_zero(uint8_t x,uint8_t y,uint8_t z,uint8_t a,float b,uint8_t 
 
 }
 
-//dataset
+//dataset(samo je dio dataseta uvaljen, mozda nekih 30ak primjera, u datasetu ima priko 300, što ih se više nadoda preciznije funkcionira program)
 vector<Instance> Inst;
 
 Inst.push_back(Instance(6,148,72,35,0,33.6,0.627,50,1));
